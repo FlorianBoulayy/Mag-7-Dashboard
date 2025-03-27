@@ -10,7 +10,7 @@ Built with Power BI, DAX, and advanced data modeling
 
 🧠 Project Overview
 
-Passionate of the Stock Market, I wanted to create this dashboard whicht explores the market capitalization evolution of the so-called “Magnificent 7", the seven most dominant tech companies in the world: Apple, Microsoft, Amazon, Google, Meta, Nvidia, and Tesla.
+Passionate of the Stock Market, I wanted to create this dashboard which explores the market capitalization evolution of the so-called “Magnificent 7", the seven most dominant tech companies in the world: Apple, Microsoft, Amazon, Google, Meta, Nvidia, and Tesla.
 
 These companies are recognized not only for their massive market valuations, but also for their disproportionate influence on global stock indices, tech innovation, and investor sentiment. Over the past two decades, they have shaped the digital economy and consistently outperformed the broader market.
 
