@@ -1,6 +1,13 @@
 The Magnificent 7 – Power BI Interactive Market Cap Dashboard  
 Built with Power BI, DAX, and advanced data modeling
 
+
+## 🖼️ Dashboard Preview
+
+> To explore the dashboard interactively, download the `.pbix` file and open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+
+![Dashboard Preview](Mag7_Dashboard_preview.jpg)
+
 🧠 Project Overview
 
 Passionate of the Stock Market, I wanted to create this dashboard whicht explores the market capitalization evolution of the so-called “Magnificent 7", the seven most dominant tech companies in the world: Apple, Microsoft, Amazon, Google, Meta, Nvidia, and Tesla.
@@ -61,13 +68,6 @@ These calculations support layered visuals and enhance interactivity.
 | Custom Company Bar | Interactive logos acting as filters and guides |
 
 The layout is designed with modern business dashboard aesthetics, balancing clarity and data density.
-
-
-## 🖼️ Dashboard Preview
-
-> To explore the dashboard interactively, download the `.pbix` file and open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-
-![Dashboard Preview](Mag7_Dashboard_preview.jpg)
 
 
  About me : 
