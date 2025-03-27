@@ -67,7 +67,8 @@ The layout is designed with modern business dashboard aesthetics, balancing clar
 
 > To explore the dashboard interactively, download the `.pbix` file and open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 
-![Dashboard Preview] 
+![Dashboard Preview](Mag7_Dashboard_preview.jpg)
+
 
  About me : 
 
