@@ -43,7 +43,7 @@ Modeling Approach
 - Use of image fields for brand logos directly within visuals
 
 
-DAX Calculations & Techniques
+🧮DAX Calculations & Techniques
 
 The model includes a variety of advanced DAX calculations, such as:
 
@@ -70,14 +70,11 @@ These calculations support layered visuals and enhance interactivity.
 The layout is designed with modern business dashboard aesthetics, balancing clarity and data density.
 
 
- About me : 
+ 📩 Contact
 
-I’m Florian Boulay, an MBA graduate from Los Angeles with a background in Information Technology (HEC Montréal) and a recent specialization in data analysis. My training includes SQL, Python, Pandas, Power BI, and cloud computing basics. I have a highly international profile and am currently seeking a junior role in IT, business analysis, or consulting in Switzerland.
+For any questions, feel free to connect:
 
-This project is part of my portfolio to demonstrate my technical skills, business understanding, and attention to design and detail.
+- 📧 Email: florian.boulay@hec.ca
+- 🔗 LinkedIn: https://www.linkedin.com/in/florian-boulay-524298179/
 
-📬 Contact
-
-- 💼 [LinkedIn]https://www.linkedin.com/in/florian-boulay-524298179/
-- 📧 florian.boulay@hec.ca
-
+🚀 If you found this project helpful, consider giving it a ⭐ on GitHub!
